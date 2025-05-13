@@ -1,5 +1,8 @@
 # EX 10 : ANIMATION USING FLASH
 
+NAME : AANANDHA KANNAN S
+
+REG NO : 212224040003
 
 ## AIM
   
@@ -65,3 +68,9 @@ Step 5: Play the picture.
 
 
 ## OUTPUT:
+
+![image](https://github.com/user-attachments/assets/5add9bc9-5eab-48d6-86c4-ffee31b76bbf)
+
+## RESULT:
+
+Thus the motion tweening, shape tweening, guide layer and masking using Flash as been done and the output is verified.
